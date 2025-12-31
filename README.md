@@ -1,6 +1,6 @@
 # VaN3Twin: Vehicle-to-Everything (V2X) Network Simulator
 
-![VaN3Twin Simulation Example](https://via.placeholder.com/800x400.png?text=VaN3Twin+Simulation+Diagram)
+![V2X Communication Model](https://upload.wikimedia.org/wikipedia/commons/7/7f/Vehicle-to-everything_%28V2X%29_Communication_Diagram.png)
 
 ## Overview
 **VaN3Twin** is a comprehensive simulator for **Vehicle-to-Vehicle (V2V)** and **Vehicle-to-Infrastructure (V2I)** communications, enabling full **V2X network analysis**. It models both **Line-of-Sight (LoS)** and **Non-Line-of-Sight (NLoS)** conditions, as well as multipath effects in complex urban environments.
