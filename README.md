@@ -33,7 +33,7 @@
 
 ## Contact & Resources
 - 📧 Email: [M.Amin Khodadadi's Gmail](Amin.khodadadi006@email.com)  
-- 💻 GitHub Repository: [VaN3Twin Repo]([https://github.com/your-repo-link](https://github.com/M-Amin-Wolverine/VaN3Twin-the-Multi-Technology-V2X-Digital-Twin-with-Ray-Tracing-in-the-Loop-/)  
+- 💻 GitHub Repository: [VaN3Twin Repo](https://github.com/M-Amin-Wolverine/VaN3Twin-the-Multi-Technology-V2X-Digital-Twin-with-Ray-Tracing-in-the-Loop-/)  
 - 🌐 OpenStreetMap Integration: [https://www.openstreetmap.org](https://www.openstreetmap.org)  
 - 📂 Google Drive (datasets & simulation files): [Link](https://drive.google.com)  
 - 🖥️ Google Colab (run simulations online): [Link](https://colab.research.google.com)  
